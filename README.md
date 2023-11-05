@@ -1,2 +1,11 @@
-# rcr-plugin
-The main plugin for Mindustry RCR servers.
+# Rcr Plugin
+
+## Building
+First, make sure you have JDK 17 installed. Then, setup [plugin.json](assets/plugin.json) and run the following commands:
+
+* Windows: `gradlew jar`
+* *nix/Mac OS: `./gradlew jar`
+
+### Troubleshooting
+
+* If the terminal returns `Permission denied` or `Command not found`, run `chmod +x ./gradlew`.

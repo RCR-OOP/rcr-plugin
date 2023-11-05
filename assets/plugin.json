@@ -1,0 +1,11 @@
+{
+  "name": "rcr-plugin",
+  "displayName": "Core RCR Server Plugin",
+  "description": "Private plugin for RCR.",
+  "author": "Skat",
+  "main": "sky.Loader",
+  "hidden": false,
+  "java": true,
+  "version": "1.2.0",
+  "minGameVersion": "144.3"
+}
