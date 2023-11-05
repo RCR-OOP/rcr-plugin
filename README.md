@@ -1,4 +1,6 @@
 # RCR Plugin
+## Description
+The main **private plugin** for *RCR servers in Mindustry*. Made to *implement a variety of functionality*.
 
 ## Building
 First, make sure you have JDK 17 installed.
